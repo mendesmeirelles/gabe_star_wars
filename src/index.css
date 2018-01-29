@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik Mono One', sans-serif;
+  background-color: lightgrey;
+}
+
+h1 {
+  font-style: italic;
+  font-weight: 700 !important;
+ 
+}
